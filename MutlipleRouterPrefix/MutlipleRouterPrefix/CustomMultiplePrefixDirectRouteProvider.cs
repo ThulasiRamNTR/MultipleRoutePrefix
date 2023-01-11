@@ -1,12 +1,6 @@
-﻿///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-// Copyright (c) Hubstream
-//
-// @Author: Thulasi
-//
-// Purpose: Data Platform Multipe Prefix Direct Route Provider.
+﻿// Purpose: Data Platform Multipe Prefix Direct Route Provider.
 // This direct route provider is gateway of capturing the multiple order RoutePrefix in the controller
 // and routing multiple routePrefix to the same controller actions
-///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 using System;
 using System.Collections.Generic;
